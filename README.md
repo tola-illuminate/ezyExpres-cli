@@ -1,8 +1,5 @@
 # ezyExpress-CLI🚀
 
-[![npm version](https://img.shields.io/npm/v/celexpress)](https://www.npmjs.com/package/celexpress)
-[![Node.js version](https://img.shields.io/node/v/celexpress)](https://nodejs.org/)
-[![License](https://img.shields.io/github/license/<USERNAME>/celexpress)](LICENSE)
 
 **exyExpres** — *Fast & Simple Express.js Project Generator CLI*
 
